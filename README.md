@@ -88,3 +88,6 @@ endmodule
 ![image](https://github.com/user-attachments/assets/063aa6e0-0a68-4934-9c88-f3b8ba9cbec9)
 
 **RESULTS**
+Thus the given logic functions are implemented and their operations are verified using verilog programming.
+
+
